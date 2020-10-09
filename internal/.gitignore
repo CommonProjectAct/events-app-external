@@ -1,0 +1,4 @@
+node_modules
+logsclear
+*.log
+npm-debug.log*
